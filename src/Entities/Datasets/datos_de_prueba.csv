@@ -1,0 +1,186 @@
+tiempo,partida,coincidencias,nombre_evento,usuario_nick,usuario_genero,usuario_edad,estado,palabra,nivel
+1621436490,1.0,5,inicio_partida,prueba,masculino,22,,,medio
+1625151012,2.0,2,inicio_partida,sdafasdf,safdsafsf,20,,,facil
+1625151026,2.0,2,intento,sdafasdf,safdsafsf,20,ok,Iceland,facil
+1625151038,2.0,2,fin,sdafasdf,safdsafsf,20,cancelada, ,facil
+1625151043,3.0,2,inicio_partida,sdafasdf,safdsafsf,20,,,facil
+1625151062,3.0,2,Intento,sdafasdf,safdsafsf,20,error,Denmark,facil
+1625151065,3.0,2,Intento,sdafasdf,safdsafsf,20,error,Luxembourg,facil
+1625151071,3.0,2,Intento,sdafasdf,safdsafsf,20,error,Jersey,facil
+1625151074,3.0,2,Intento,sdafasdf,safdsafsf,20,error,Denmark,facil
+1625151076,3.0,2,Intento,sdafasdf,safdsafsf,20,error,Denmark,facil
+1625151079,3.0,2,intento,sdafasdf,safdsafsf,20,ok,Denmark,facil
+1625151083,3.0,2,Intento,sdafasdf,safdsafsf,20,error,United Kingdom,facil
+1625151095,3.0,2,fin,sdafasdf,safdsafsf,20,cancelada, ,facil
+1625151158,4.0,2,inicio_partida,sdafasdf,safdsafsf,20,,,dificil
+1625151161,4.0,2,Intento,sdafasdf,safdsafsf,20,error,Macedonia,dificil
+1625151164,4.0,2,intento,sdafasdf,safdsafsf,20,ok,Jersey,dificil
+1625151165,4.0,2,intento,sdafasdf,safdsafsf,20,ok,Macedonia,dificil
+1625151632,5.0,2,inicio_partida,asdfsf,masculino,18,,,facil
+1625151634,5.0,2,Intento,asdfsf,masculino,18,error,Faroe Islands,facil
+1625151637,5.0,2,Intento,asdfsf,masculino,18,error,United Kingdom,facil
+1625151640,5.0,2,Intento,asdfsf,masculino,18,error,Liechtenstein,facil
+1625151643,5.0,2,intento,asdfsf,masculino,18,ok,Liechtenstein,facil
+1625151645,5.0,2,intento,asdfsf,masculino,18,ok,Gibraltar,facil
+1625151647,5.0,2,intento,asdfsf,masculino,18,ok,Slovakia,facil
+1625151648,5.0,2,Intento,asdfsf,masculino,18,error,Faroe Islands,facil
+1625151651,5.0,2,Intento,asdfsf,masculino,18,error,Hungary,facil
+1625151654,5.0,2,intento,asdfsf,masculino,18,ok,Faroe Islands,facil
+1625151655,5.0,2,Intento,asdfsf,masculino,18,error,Hungary,facil
+1625151658,5.0,2,intento,asdfsf,masculino,18,ok,San Marino,facil
+1625151659,5.0,2,Intento,asdfsf,masculino,18,error,Hungary,facil
+1625151663,5.0,2,intento,asdfsf,masculino,18,ok,Spain,facil
+1625151664,5.0,2,intento,asdfsf,masculino,18,ok,Germany,facil
+1625151666,5.0,2,intento,asdfsf,masculino,18,ok,Hungary,facil
+1625151667,5.0,2,intento,asdfsf,masculino,18,ok,United Kingdom,facil
+1625151669,5.0,2,fin,asdfsf,masculino,18,finalizada,United Kingdom,facil
+1625174806,6.0,2,inicio_partida,facu,masculino,19,,,facil
+1625174810,6.0,2,Intento,facu,masculino,19,error,Karthus,facil
+1625174813,6.0,2,Intento,facu,masculino,19,error,Orianna,facil
+1625174820,6.0,2,fin,facu,masculino,19,cancelada, ,facil
+1625205318,7.0,3,inicio_partida,facu,masculino,19,,,dificil
+1625205324,7.0,3,Intento,facu,masculino,19,error,Studebaker,dificil
+1625205328,7.0,3,Intento,facu,masculino,19,error,Fiat,dificil
+1625205332,7.0,3,Intento,facu,masculino,19,error,Porsche,dificil
+1625205335,7.0,3,Intento,facu,masculino,19,error,Land Rover,dificil
+1625205339,7.0,3,intento,facu,masculino,19,ok,Land Rover,dificil
+1625205341,7.0,3,Intento,facu,masculino,19,error,Lexus,dificil
+1625205344,7.0,3,Intento,facu,masculino,19,error,Fiat,dificil
+1625205348,7.0,3,intento,facu,masculino,19,ok,Renault,dificil
+1625205354,7.0,3,intento,facu,masculino,19,ok,MG,dificil
+1625205362,7.0,3,Intento,facu,masculino,19,error,Audi,dificil
+1625205366,7.0,3,Intento,facu,masculino,19,error,Dodge,dificil
+1625205370,7.0,3,Intento,facu,masculino,19,error,Porsche,dificil
+1625205373,7.0,3,intento,facu,masculino,19,ok,Dodge,dificil
+1625205375,7.0,3,intento,facu,masculino,19,ok,Studebaker,dificil
+1625205379,7.0,3,Intento,facu,masculino,19,error,Fiat,dificil
+1625205382,7.0,3,intento,facu,masculino,19,ok,Fiat,dificil
+1625205385,7.0,3,Intento,facu,masculino,19,error,Porsche,dificil
+1625205389,7.0,3,Intento,facu,masculino,19,error,Audi,dificil
+1625205393,7.0,3,intento,facu,masculino,19,ok,Porsche,dificil
+1625205396,7.0,3,Intento,facu,masculino,19,error,Daewoo,dificil
+1625205401,7.0,3,Intento,facu,masculino,19,error,Daewoo,dificil
+1625205406,7.0,3,Intento,facu,masculino,19,error,Daewoo,dificil
+1625205410,7.0,3,intento,facu,masculino,19,ok,Daewoo,dificil
+1625205415,7.0,3,intento,facu,masculino,19,ok,Lexus,dificil
+1625205417,7.0,3,intento,facu,masculino,19,ok,Audi,dificil
+1625205418,7.0,3,fin,facu,masculino,19,finalizada,Audi,dificil
+1625720373,8.0,3,inicio_partida,facu,masculino,19,,,dificil
+1625720376,8.0,3,Intento,facu,masculino,19,error,Dodge,dificil
+1625720380,8.0,3,Intento,facu,masculino,19,error,Studebaker,dificil
+1625720386,8.0,3,intento,facu,masculino,19,ok,Volvo,dificil
+1625720390,8.0,3,Intento,facu,masculino,19,error,Ferrari,dificil
+1625720394,8.0,3,Intento,facu,masculino,19,error,Saab,dificil
+1625720398,8.0,3,fin,facu,masculino,19,cancelada, ,dificil
+1627251458,9.0,3,inicio_partida,facu,masculino,19,,,dificil
+1627251468,9.0,3,Intento,facu,masculino,19,error,Taric,dificil
+1627251473,9.0,3,fin,facu,masculino,19,cancelada, ,dificil
+1627251474,10.0,3,inicio_partida,facu,masculino,19,,,dificil
+1627251478,10.0,3,fin,facu,masculino,19,cancelada, ,dificil
+1627251488,11.0,2,inicio_partida,facu,masculino,19,,,dificil
+1627251493,11.0,2,intento,facu,masculino,19,ok,Anivia,dificil
+1627251494,11.0,2,intento,facu,masculino,19,ok,Ivern,dificil
+1627251495,11.0,2,fin,facu,masculino,19,finalizada,Ivern,dificil
+1627263196,12.0,2,inicio_partida,facu,masculino,19,,,personalizado
+1627263200,12.0,2,intento,facu,masculino,19,ok,Riven,personalizado
+1627263201,12.0,2,intento,facu,masculino,19,ok,Jayce,personalizado
+1627263241,13.0,2,inicio_partida,facu,masculino,19,,,personalizado
+1627263241,13.0,2,Intento,facu,masculino,19,error,Singed,personalizado
+1627263244,13.0,2,intento,facu,masculino,19,ok,Graves,personalizado
+1627263245,13.0,2,intento,facu,masculino,19,ok,Singed,personalizado
+1627263247,13.0,2,fin,facu,masculino,19,finalizada,Singed,personalizado
+1627263271,14.0,3,inicio_partida,facu,masculino,19,,,personalizado
+1627263273,14.0,3,Intento,facu,masculino,19,error,Zilean,personalizado
+1627263276,14.0,3,Intento,facu,masculino,19,error,Zilean,personalizado
+1627263279,14.0,3,intento,facu,masculino,19,ok,Zilean,personalizado
+1627263280,14.0,3,intento,facu,masculino,19,ok,Zyra,personalizado
+1627263282,14.0,3,intento,facu,masculino,19,ok,Neeko,personalizado
+1627263283,14.0,3,fin,facu,masculino,19,finalizada,Neeko,personalizado
+1627837223,15.0,3,inicio_partida,facu,masculino,19,,,personalizado
+1627841096,16.0,3,inicio_partida,facu,masculino,19,,,personalizado
+1627841098,16.0,3,Intento,facu,masculino,19,error,Wallis and Futuna,personalizado
+1627841101,16.0,3,Intento,facu,masculino,19,error,Cuba,personalizado
+1627841105,16.0,3,intento,facu,masculino,19,ok,Cuba,personalizado
+1627841107,16.0,3,intento,facu,masculino,19,ok,Slovakia,personalizado
+1627841108,16.0,3,intento,facu,masculino,19,ok,Wallis and Futuna,personalizado
+1627841111,16.0,3,fin,facu,masculino,19,finalizada,Wallis and Futuna,personalizado
+1628187531,17.0,3,inicio_partida,facu,masculino,19,,,personalizado
+1628187533,17.0,3,Intento,facu,masculino,19,error,Bosnia & Herzegovina,personalizado
+1628187536,17.0,3,Intento,facu,masculino,19,error,Slovenia,personalizado
+1628187539,17.0,3,intento,facu,masculino,19,ok,Portugal,personalizado
+1628187541,17.0,3,intento,facu,masculino,19,ok,Slovenia,personalizado
+1628187542,17.0,3,intento,facu,masculino,19,ok,Bosnia & Herzegovina,personalizado
+1628187549,17.0,3,fin,facu,masculino,19,finalizada,Bosnia & Herzegovina,personalizado
+1628187553,18.0,3,inicio_partida,facu,masculino,19,,,personalizado
+1628187555,18.0,3,Intento,facu,masculino,19,error,Greece,personalizado
+1628187558,18.0,3,Intento,facu,masculino,19,error,Slovenia,personalizado
+1628187567,18.0,3,Intento,facu,masculino,19,error,Slovenia,personalizado
+1628187571,18.0,3,Intento,facu,masculino,19,error,Slovenia,personalizado
+1628187575,18.0,3,Intento,facu,masculino,19,error,Greece,personalizado
+1628187578,18.0,3,Intento,facu,masculino,19,error,Slovenia,personalizado
+1628187582,18.0,3,Intento,facu,masculino,19,error,Slovenia,personalizado
+1628187585,18.0,3,Intento,facu,masculino,19,error,Slovenia,personalizado
+1628187588,18.0,3,intento,facu,masculino,19,ok,Greece,personalizado
+1628187590,18.0,3,Intento,facu,masculino,19,error,Finland,personalizado
+1628187593,18.0,3,intento,facu,masculino,19,ok,Slovenia,personalizado
+1628187593,18.0,3,intento,facu,masculino,19,ok,Finland,personalizado
+1628187595,18.0,3,fin,facu,masculino,19,finalizada,Finland,personalizado
+1628187633,19.0,3,inicio_partida,facu,masculino,19,,,personalizado
+1628187637,19.0,3,Intento,facu,masculino,19,error,Greece,personalizado
+1628187640,19.0,3,Intento,facu,masculino,19,error,Albania,personalizado
+1628187643,19.0,3,Intento,facu,masculino,19,error,Belgium,personalizado
+1628187646,19.0,3,intento,facu,masculino,19,ok,Greece,personalizado
+1628187647,19.0,3,Intento,facu,masculino,19,error,Belgium,personalizado
+1628187650,19.0,3,intento,facu,masculino,19,ok,Belgium,personalizado
+1628187651,19.0,3,intento,facu,masculino,19,ok,Albania,personalizado
+1628187652,19.0,3,fin,facu,masculino,19,finalizada,Albania,personalizado
+1628187698,20.0,3,inicio_partida,facu,masculino,19,,,personalizado
+1628187699,20.0,3,Intento,facu,masculino,19,error,Liechtenstein,personalizado
+1628187703,20.0,3,Intento,facu,masculino,19,error,United Kingdom,personalizado
+1628187706,20.0,3,Intento,facu,masculino,19,error,United Kingdom,personalizado
+1628187709,20.0,3,Intento,facu,masculino,19,error,United Kingdom,personalizado
+1628187721,20.0,3,fin,facu,masculino,19,cancelada, ,personalizado
+1628187812,21.0,3,inicio_partida,facu,masculino,19,,,personalizado
+1628187814,21.0,3,intento,facu,masculino,19,ok,Ireland,personalizado
+1628187815,21.0,3,Intento,facu,masculino,19,error,Denmark,personalizado
+1628187818,21.0,3,Intento,facu,masculino,19,error,Denmark,personalizado
+1628187821,21.0,3,Intento,facu,masculino,19,error,Denmark,personalizado
+1628187824,21.0,3,Intento,facu,masculino,19,error,Denmark,personalizado
+1628187828,21.0,3,intento,facu,masculino,19,ok,Denmark,personalizado
+1628187829,21.0,3,intento,facu,masculino,19,ok,Romania,personalizado
+1628187830,21.0,3,fin,facu,masculino,19,finalizada,Romania,personalizado
+1628188237,22.0,3,inicio_partida,facu,masculino,19,,,personalizado
+1628188241,22.0,3,Intento,facu,masculino,19,error,Hungary,personalizado
+1628188244,22.0,3,Intento,facu,masculino,19,error,Portugal,personalizado
+1628188247,22.0,3,Intento,facu,masculino,19,error,Hungary,personalizado
+1628188249,22.0,3,intento,facu,masculino,19,ok,Slovenia,personalizado
+1628188251,22.0,3,intento,facu,masculino,19,ok,Portugal,personalizado
+1628188252,22.0,3,intento,facu,masculino,19,ok,Hungary,personalizado
+1628188276,22.0,3,fin,facu,masculino,19,finalizada,Hungary,personalizado
+1628188360,23.0,3,inicio_partida,facu,masculino,19,,,personalizado
+1628188362,23.0,3,Intento,facu,masculino,19,error,Slovenia,personalizado
+1628188365,23.0,3,Intento,facu,masculino,19,error,Croatia,personalizado
+1628188367,23.0,3,Intento,facu,masculino,19,error,Hungary,personalizado
+1628188370,23.0,3,intento,facu,masculino,19,ok,Slovenia,personalizado
+1628188371,23.0,3,intento,facu,masculino,19,ok,Croatia,personalizado
+1628188373,23.0,3,intento,facu,masculino,19,ok,Hungary,personalizado
+1628188382,23.0,3,fin,facu,masculino,19,finalizada,Hungary,personalizado
+1628188499,24.0,3,inicio_partida,facu,masculino,19,,,personalizado
+1628188501,24.0,3,Intento,facu,masculino,19,error,Norway,personalizado
+1628188504,24.0,3,Intento,facu,masculino,19,error,Faroe Islands,personalizado
+1628188507,24.0,3,intento,facu,masculino,19,ok,Serbia,personalizado
+1628188509,24.0,3,Intento,facu,masculino,19,error,Norway,personalizado
+1628188512,24.0,3,intento,facu,masculino,19,ok,Norway,personalizado
+1628188513,24.0,3,intento,facu,masculino,19,ok,Faroe Islands,personalizado
+1628188515,24.0,3,fin,facu,masculino,19,finalizada,Faroe Islands,personalizado
+1642970601,25.0,3,inicio_partida,facu,masculino,19,,,personalizado
+1642970608,25.0,3,Intento,facu,masculino,19,error,Aurelion Sol,personalizado
+1642970612,25.0,3,Intento,facu,masculino,19,error,Aurelion Sol,personalizado
+1642970615,25.0,3,intento,facu,masculino,19,ok,Aurelion Sol,personalizado
+1642970618,25.0,3,intento,facu,masculino,19,ok,Varus,personalizado
+1642970619,25.0,3,intento,facu,masculino,19,ok,Nautilus,personalizado
+1642970620,25.0,3,fin,facu,masculino,19,finalizada,Nautilus,personalizado
+1642970631,26.0,3,inicio_partida,facu,masculino,19,,,personalizado
+1642970635,26.0,3,Intento,facu,masculino,19,error,Lux,personalizado
+1642970655,26.0,3,intento,facu,masculino,19,ok,Urgot,personalizado
+1642970657,26.0,3,fin,facu,masculino,19,cancelada, ,personalizado

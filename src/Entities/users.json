@@ -1,0 +1,28 @@
+{
+    "facu": {
+        "age": 19.0,
+        "gender": "masculino",
+        "config": {
+            "level": "9x9",
+            "coincidences": 3,
+            "help": "yes",
+            "elements": "words and images",
+            "msg": {
+                "win": "Ganaste!!",
+                "lose": "Perdiste!!",
+                "time": "Quedan 30 segundos para que finalice la partida"
+            },
+            "time": {
+                "hours": 0,
+                "minutes": 10,
+                "seconds": 0
+            },
+            "theme": "MemPy Dark Blue"
+        },
+        "puntaje": {
+            "3x6": 7450,
+            "4x6": 0,
+            "5x6": 0
+        }
+    }
+}

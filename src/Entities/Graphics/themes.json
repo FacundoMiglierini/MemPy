@@ -1,0 +1,136 @@
+{
+    "MemPy Light Green":
+        {
+        "theme_content" :    
+            {
+                "BACKGROUND": "#FFFFFF",
+                "TEXT": "#000000",
+                "INPUT": "#FFFFFF",
+                "TEXT_INPUT": "#000000",
+                "SCROLL": "#004D40",
+                "BUTTON": "whiteon#00796B",
+                "PROGRESS": ["#000000", "#000000"],
+                "BORDER": 1,
+                "SLIDER_DEPTH": 1,
+                "PROGRESS_DEPTH": 1
+            },
+        "text_font" : "Roboto Light",
+        "primary_color" : "#FFFFFF",
+        "primary_color_variant" : "#ECEFF1",
+        "secondary_color" : "#00796B",
+        "secondary_color_variant" : "#004D40"
+        },
+
+
+    "MemPy Light Blue":
+        {
+        "theme_content" :    
+            {
+                "BACKGROUND": "#FFFFFF",
+                "TEXT": "#000000",
+                "INPUT": "#FFFFFF",
+                "TEXT_INPUT": "#000000",
+                "SCROLL": "#1565C0",
+                "BUTTON": "whiteon#1565C0",
+                "PROGRESS": ["#000000", "#000000"],
+                "BORDER": 1,
+                "SLIDER_DEPTH": 1,
+                "PROGRESS_DEPTH": 1
+            },
+        "text_font" : "Roboto Light",
+        "primary_color" : "#FFFFFF",
+        "primary_color_variant" : "#ECEFF1",
+        "secondary_color" : "#1565C0",
+        "secondary_color_variant" : "#1976D2"
+        },
+
+    "MemPy Light Red":
+        {
+        "theme_content" :    
+            {
+                "BACKGROUND": "#FFFFFF",
+                "TEXT": "#000000",
+                "INPUT": "#FFFFFF",
+                "TEXT_INPUT": "#000000",
+                "SCROLL": "#D32F2F",
+                "BUTTON": "whiteon#D32F2F",
+                "PROGRESS": ["#000000", "#000000"],
+                "BORDER": 1,
+                "SLIDER_DEPTH": 1,
+                "PROGRESS_DEPTH": 1
+            },
+        "text_font" : "Roboto Light",
+        "primary_color" : "#FFFFFF",
+        "primary_color_variant" : "#ECEFF1",
+        "secondary_color" : "#D32F2F",
+        "secondary_color_variant" : "#B71C1C"
+        },
+
+    "MemPy Dark Green":
+        {
+        "theme_content" :    
+            {
+                "BACKGROUND": "#263238",
+                "TEXT": "#FFFFFF",
+                "INPUT": "#37474F",
+                "TEXT_INPUT": "#FFFFFF",
+                "SCROLL": "#004D40",
+                "BUTTON": "whiteon#004D40",
+                "PROGRESS": ["#000000", "#000000"],
+                "BORDER": 1,
+                "SLIDER_DEPTH": 1,
+                "PROGRESS_DEPTH": 1
+            },
+        "text_font" : "Roboto Light",
+        "primary_color" : "#263238",
+        "primary_color_variant" : "#37474F",
+        "secondary_color" : "#004D40",
+        "secondary_color_variant" : "#00796B"
+        },
+
+    "MemPy Dark Blue":
+        {
+        "theme_content" :    
+            {
+                "BACKGROUND": "#263238",
+                "TEXT": "#FFFFFF",
+                "INPUT": "#37474F",
+                "TEXT_INPUT": "#FFFFFF",
+                "SCROLL": "#0D47A1",
+                "BUTTON": "whiteon#0D47A1",
+                "PROGRESS": ["#000000", "#000000"],
+                "BORDER": 1,
+                "SLIDER_DEPTH": 1,
+                "PROGRESS_DEPTH": 1
+            },
+        "text_font" : "Roboto Light",
+        "primary_color" : "#263238",
+        "primary_color_variant" : "#37474F",
+        "secondary_color" : "#0D47A1",
+        "secondary_color_variant" : "#1976D2"
+        },
+
+        "MemPy Dark Red":
+        {
+        "theme_content" :    
+            {
+                "BACKGROUND": "#263238",
+                "TEXT": "#FFFFFF",
+                "INPUT": "#37474F",
+                "TEXT_INPUT": "#FFFFFF",
+                "SCROLL": "#B71C1C",
+                "BUTTON": "whiteon#B71C1C",
+                "PROGRESS": ["#000000", "#000000"],
+                "BORDER": 1,
+                "SLIDER_DEPTH": 1,
+                "PROGRESS_DEPTH": 1
+            },
+        "text_font" : "Roboto Light",
+        "primary_color" : "#263238",
+        "primary_color_variant" : "#37474F",
+        "secondary_color" : "#B71C1C",
+        "secondary_color_variant" : "#D32F2F"
+        }
+
+
+}
