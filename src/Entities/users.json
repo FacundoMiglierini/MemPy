@@ -3,8 +3,8 @@
         "age": 19.0,
         "gender": "masculino",
         "config": {
-            "level": "9x9",
-            "coincidences": 3,
+            "level": "4x4",
+            "coincidences": 2,
             "help": "yes",
             "elements": "words and images",
             "msg": {
@@ -20,7 +20,7 @@
             "theme": "MemPy Dark Blue"
         },
         "puntaje": {
-            "3x6": 7450,
+            "3x6": 9150,
             "4x6": 0,
             "5x6": 0
         }

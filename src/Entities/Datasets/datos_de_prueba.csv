@@ -184,3 +184,27 @@ tiempo,partida,coincidencias,nombre_evento,usuario_nick,usuario_genero,usuario_e
 1642970635,26.0,3,Intento,facu,masculino,19,error,Lux,personalizado
 1642970655,26.0,3,intento,facu,masculino,19,ok,Urgot,personalizado
 1642970657,26.0,3,fin,facu,masculino,19,cancelada, ,personalizado
+1708645634,27.0,3,inicio_partida,facu,masculino,19,,,personalizado
+1708645651,27.0,3,Intento,facu,masculino,19,error,Galio,personalizado
+1708645656,27.0,3,Intento,facu,masculino,19,error,Cassiopeia,personalizado
+1708645670,27.0,3,fin,facu,masculino,19,cancelada, ,personalizado
+1708645803,28.0,2,inicio_partida,facu,masculino,19,,,personalizado
+1708645806,28.0,2,Intento,facu,masculino,19,error,Gangplank,personalizado
+1708645809,28.0,2,Intento,facu,masculino,19,error,Sylas,personalizado
+1708645811,28.0,2,Intento,facu,masculino,19,error,Gangplank,personalizado
+1708645815,28.0,2,intento,facu,masculino,19,ok,Gangplank,personalizado
+1708645816,28.0,2,Intento,facu,masculino,19,error,Shen,personalizado
+1708645819,28.0,2,intento,facu,masculino,19,ok,Shen,personalizado
+1708645822,28.0,2,intento,facu,masculino,19,ok,Akali,personalizado
+1708645824,28.0,2,intento,facu,masculino,19,ok,Sylas,personalizado
+1708645826,28.0,2,intento,facu,masculino,19,ok,Nautilus,personalizado
+1708645828,28.0,2,Intento,facu,masculino,19,error,Sett,personalizado
+1708645831,28.0,2,intento,facu,masculino,19,ok,Lissandra,personalizado
+1708645833,28.0,2,Intento,facu,masculino,19,error,Sett,personalizado
+1708645835,28.0,2,intento,facu,masculino,19,ok,Sett,personalizado
+1708645836,28.0,2,intento,facu,masculino,19,ok,Qiyana,personalizado
+1708645839,28.0,2,fin,facu,masculino,19,finalizada,Qiyana,personalizado
+1708645844,29.0,2,inicio_partida,facu,masculino,19,,,personalizado
+1708645846,29.0,2,fin,facu,masculino,19,cancelada, ,personalizado
+1708645865,30.0,2,inicio_partida,facu,masculino,19,,,personalizado
+1708645869,30.0,2,fin,facu,masculino,19,cancelada, ,personalizado
